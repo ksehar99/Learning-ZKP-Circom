@@ -1,0 +1,11 @@
+# Generated files - not source code
+*.r1cs
+*.sym
+*.zkey
+*.ptau
+*.wtns
+node_modules/
+circomlib/
+*_js/
+proof.json
+public.json
