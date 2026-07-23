@@ -7,5 +7,3 @@
 node_modules/
 circomlib/
 *_js/
-proof.json
-public.json
